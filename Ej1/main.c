@@ -9,6 +9,7 @@ int main(){
 	scanf("%i",&x);
 	scanf("%i",&y);
 	aux = x;
+	 printf("frase ejemplo 5 de septiembre"); 
 	x = y;
 	y = aux;
 	printf("%i, %i\n", x, y);
