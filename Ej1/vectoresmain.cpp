@@ -55,6 +55,8 @@ do{
 }
 while (ordenado == 0);
 
+std::cout<<"\n Matriz Ordenada de Menor a Mayor\n\n";
+
 for (int i = 0; i < 50; i++) 
 {
     std::cout << vec[i] << " ";
